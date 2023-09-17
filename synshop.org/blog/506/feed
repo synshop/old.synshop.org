@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Duane&#039;s blog</title>
+ <link>https://synshop.org/blog/dewjunkie</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Introduction</title>
+ <link>https://synshop.org/blog/dewjunkie/introduction</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Cross posted from the mailing list.  Just exploring the site.&lt;/p&gt;&lt;p&gt;&lt;span&gt;I stopped by to check things out for craft night. Loved it, became a member 1st thing in the morning.  Thank you for the warm welcome everyone.  I hadn&#039;t brought a project, because I just wanted to check things out, and everyone was super friendly helpful, etc.&lt;/span&gt;&lt;/p&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;I&#039;ve primarily been a computer programmer for ~20 years.  Longer if you count typing in basic programs into a VIC20 from magazines.  So that is the focus of my tinkering.  I&#039;ve dabbled with Arduino, Beagle Board, etc.  Embedded/Microcontrollers interest me a lot, but I haven&#039;t had driving project to get me deep into it.&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;I&#039;m not great at putting together a curriculum, but I am good at patience and answering questions.&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;This is just quick and off the cuff&lt;/div&gt;&lt;div&gt;Areas I&#039;m strong in can help with:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;most computer related issues, anything but mac.  I just don&#039;t get it.&lt;/li&gt;&lt;li&gt;networking&lt;/li&gt;&lt;li&gt;programming&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;C++&lt;/li&gt;&lt;li&gt;C#&lt;/li&gt;&lt;li&gt;SQL&lt;/li&gt;&lt;li&gt;Many others to a smaller degree&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Low Voltage Wiring&lt;/li&gt;&lt;li&gt;fixing things&lt;/li&gt;&lt;li&gt;problem solving&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;1/2 Decent Skills:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Car Mechanic&lt;/li&gt;&lt;li&gt;Wood Work&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Areas I&#039;d like to improve:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;RF&lt;/li&gt;&lt;li&gt;Robotics&lt;/li&gt;&lt;li&gt;Metal Work&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Projects I&#039;d love to do:&lt;/div&gt;&lt;div&gt;WWVB NTP Server: Probably on an arduino with a network shield.  Possibly something more heavyweight, but NTP is a light service.&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;A robot that makes GridBeam.  More a drill press with a feeder.  Ripping the wood doesn&#039;t take too long.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 17 Jul 2013 15:08:09 +0000</pubDate>
+ <dc:creator>Duane</dc:creator>
+ <guid isPermaLink="false">212 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/dewjunkie/introduction#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/212</wfw:commentRss>
+</item>
+</channel>
+</rss>

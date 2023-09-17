@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Stark&#039;s blog</title>
+ <link>https://synshop.org/blog/101</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Automatic Bottle Capper Completion</title>
+ <link>https://synshop.org/blog/stark/automatic-bottle-capper-completion</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;So as many of you have noticed, i have not been around much in the past few months. Seeing as it is now completed, I figured I would show everyone the project that has been consuming most of my life for the past year. For the past 3-ish years I have been homebrewing with a group of friends. With the completion of our mechanical engineering degrees approching we had to figure out something to take from idea to completed project. Naturally we chose something involving beer, afterall who doesn&#039;t want an excuse to drink at school. &lt;img src=&quot;http://sphotos-b.xx.fbcdn.net/hphotos-prn1/67605_10151214281162615_175476969_n.jpg&quot; alt=&quot;&quot; width=&quot;960&quot; height=&quot;720&quot; /&gt;&lt;/p&gt;&lt;p&gt;The Automatic Bottle Capper is a tabletop machine designed to cap any US standard pry-off bottle. It is designed to replace the standard hand capping methods used by many home brewers. &lt;img src=&quot;http://sphotos-b.xx.fbcdn.net/hphotos-snc7/391834_10151214281177615_1925265959_n.jpg&quot; alt=&quot;&quot; width=&quot;960&quot; height=&quot;720&quot; /&gt;&lt;/p&gt;&lt;p&gt;This version of the capper will tweet every time it caps a bottle, and as some added humor, the tweets get progressivly more intoxicated as the number of bottles capped increases. Since this is also for a group that enjoys working on various electronic projects while bottling, this version includes a 5 channel power supply. I hope to provide more information and a detailed build description as the winter break comences. I will be bringing it down to some synshop meetings, along with the las vegas mini-maker fair. Until then feel free to ask questions and browse through our website at www.AutoBeerCapper.com&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Dec 2012 21:42:43 +0000</pubDate>
+ <dc:creator>Stark</dc:creator>
+ <guid isPermaLink="false">107 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/stark/automatic-bottle-capper-completion#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/107</wfw:commentRss>
+</item>
+</channel>
+</rss>

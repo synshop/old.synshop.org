@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>cheronobyl&#039;s blog</title>
+ <link>https://synshop.org/blog/cheronobyl</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Hello and My Future Plans</title>
+ <link>https://synshop.org/blog/cheronobyl/hello-and-my-future-plans</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello everyone, my name is Caleb Schmucker (known around the internet as Cheronobyl). I have been an inactive member for a while and lately decided to change that. I figured I would simply post this introductory message, as well as a list of projects I am currently working on and/or am planning on doing within the next month or so.&lt;/p&gt;&lt;p&gt;As of now, my current plans are:&lt;/p&gt;&lt;p&gt;A Raspberry Pi powered arcade machine: This will be my first Pi-based project (I know, I&#039;m one hell of a noob). Basically, using RetroPi in conjunction with an old LCD screen I have around I will emulate many past arcade systems as well as some home systems. Since the pi/screen take so little space, the bottom will be hollowed out and shelves will be installed to work as storage space. Credit for this idea goes to my younger brother, Landon.&lt;/p&gt;&lt;p&gt;An Arduino powered ALDL cable for my car: This cable, combined with a laptop, will allow me to get more accurate data readings about the varius statuses of my engine as well as allowing me to live tune the engine in order to obtain peak performance values.&lt;/p&gt;&lt;p&gt;A heads up display for racing drivers: I cannot say to much about this due to a silly agreement with a friend, but basically it entails making a heads up display for drivers like none before.&lt;/p&gt;&lt;p&gt;&lt;span&gt;If you are interested in any of the projects, either in aiding me or simply questioning my sanity, drop me a line through email at schmuckerishere@gmail.com . Make sure to tag your message with [SynShop] in the subject line so I can find it as soon as possible. Of course, I have more projects in mind as well as plenty of smaller side jobs but these are going to be my main focuses for a while.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 12 Jan 2014 05:00:46 +0000</pubDate>
+ <dc:creator>cheronobyl</dc:creator>
+ <guid isPermaLink="false">293 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/cheronobyl/hello-and-my-future-plans#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/293</wfw:commentRss>
+</item>
+</channel>
+</rss>

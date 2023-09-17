@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XRDS xmlns="xri://$xrds">
+  <XRD xmlns="xri://$xrd*($v*2.0)" version="2.0" xmlns:simple="http://xrds-simple.net/core/1.0">
+    <Service priority="10">
+      <Type>http://specs.openid.net/auth/2.0/signon</Type>
+      <URI>https://synshop.org/openid/provider</URI>
+      <LocalID>https://synshop.org/id/danielb702</LocalID>
+    </Service>
+  </XRD>
+</XRDS>

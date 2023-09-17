@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Krux&#039;s blog</title>
+ <link>https://synshop.org/blog/krux</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What to do when you&#039;ve lost your ViewSonic Projector remote</title>
+ <link>https://synshop.org/blog/krux/what-do-when-youve-lost-your-viewsonic-projector-remote</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The remote control for our projector went missing some time back.  This is unfortunate, since to turn on the projector we had to climb on a ladder, step stool, or unsafely climb on a chair or table to reach the projector on the ceiling.  And then off course since you are touching the projector, you usually end up moving it in the process, which means the image doesn&#039;t display where it should on the projector screen.&lt;br /&gt;&lt;br /&gt;As it happens, we inherited the projector from /usr/lib, when the space closed it&#039;s doors.  While not the same model, it was the same brand.  So the remote from that projector just happens to also work on our projector.  This was great, since it meant that we could once again power on the projector from the safety and comfort of the seats in the classroom.  Well it would be, but as we were not wanting to also lose that remote, it has been locked up in the SYN Shop board of directors locker that only a few people have access to.&lt;br /&gt;&lt;br /&gt;Now we could buy a learning remote, which would let us copy the projector remote so we have a backup.  However that&#039;s not very hackerish.  The better way would be to reverse engineer the codes, and if needed duplicate it.  So I borrowed the spare projector and remote, so I could do exactly that.&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://krux.org/gallery/var/resizes/electronics/Projector-Remote/2014-02-23%2022_14_21.jpg?m=1393223120&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;&lt;p&gt;More over at &lt;a title=&quot;What to do when you&#039;ve lost your ViewSonic Projector remote&quot; href=&quot;https://krux.org/article/What_to_do_when_you_ve_lost_your_ViewSonic_Projector_remote&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Krux&#039;s site&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 24 Feb 2014 06:35:28 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">320 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/what-do-when-youve-lost-your-viewsonic-projector-remote#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/320</wfw:commentRss>
+</item>
+<item>
+ <title>Mk3 Goggles Underway</title>
+ <link>https://synshop.org/blog/krux/mk3-goggles-underway</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;object width=&quot;560&quot; height=&quot;315&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;https://www.youtube.com/v/oucfZsEJlZ8?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;https://www.youtube.com/v/oucfZsEJlZ8?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;560&quot; height=&quot;315&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+&lt;p&gt;
+I&#039;ve been making headway on my latest Mk3 Goggles.  I switched to using the PCA9685 LED driver chip, which is a 16-channel, 12-bit PWM I2C-bus LED controller.  This reduces the number of required to wires down from seven to four.  It&#039;s also a quite a bit easier of a chip to work with.
+&lt;/p&gt;
+&lt;p&gt;
+I got the boards made through &lt;a href=&quot;https://oshpark.com&quot; target=&quot;_blank&quot;&gt;OSH Park&lt;/a&gt;.  I&#039;m really impressed with their service.  The web based interface to get your boards made is slick, and makes the whole process painless and simple. They have a quick turn around and give you some nice quality boards.
+&lt;/p&gt;
+&lt;p&gt;
+Next steps are to try and get the main controller board prototype running, and then to work on the phsyical fabrication which gives they goggles the required style and flair.  All this before Maker Faire.  It will be a busy few days.
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 15 May 2013 18:10:04 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">181 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/mk3-goggles-underway#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/181</wfw:commentRss>
+</item>
+<item>
+ <title>SYN Shop...Bot</title>
+ <link>https://synshop.org/blog/krux/syn-shopbot</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;object width=&quot;560&quot; height=&quot;315&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;https://www.youtube.com/v/ooH_2fVugJU?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;https://www.youtube.com/v/ooH_2fVugJU?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;560&quot; height=&quot;315&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+&lt;p&gt;
+While working on getting the ShopBot up and running, we took some quick video of it drawing out it&#039;s name on cardboard.  &lt;/p&gt;
+&lt;p&gt;
+We got the dust collection system in, and recently mapped out the table so we can get that drilled counter sunk and mounted.&lt;/p&gt;
+&lt;p&gt;
+Very excited to put this tool to it&#039;s full potential.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Jan 2013 02:09:26 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">119 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/syn-shopbot#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/119</wfw:commentRss>
+</item>
+<item>
+ <title>PDP-11 Crash caught on tape</title>
+ <link>https://synshop.org/blog/krux/pdp-11-crash-caught-tape</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OGMta5govNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+While at Defcon after Crash and Compile, I was racing against Jason Scott who is famous for textfiles.com, as well as the creator of Get Lamp and other geekish documentaries including the upcomming Defcon Documentary.  May have had a few too many beers (that&#039;s my excuse and I&#039;m sticking to it) and crashed the PDP-11.  Hilarious.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 16 Aug 2012 06:51:19 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">63 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/pdp-11-crash-caught-tape#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/63</wfw:commentRss>
+</item>
+<item>
+ <title>Preview of the Burning Man Ice Cream Truck art car</title>
+ <link>https://synshop.org/blog/krux/preview-burning-man-ice-cream-truck-art-car</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/THizBtwPO4o?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+My roommate is building an ice cream truck art car that is going to be covered in interactive multicolor LEDs,  This is one of the modules we&#039;ve built, minus the diffuser.  It&#039;s a project that is going to involve an epic amount of soldering, so if anyone in the SYN Shop community wants to help with soldering, gluing, painting, etc.. ping @hiwrac over on twitter, or post on the list you want to help.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Aug 2012 09:08:03 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">62 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/preview-burning-man-ice-cream-truck-art-car#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/62</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 8</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-8</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1Dar4w5WjRY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+And next up on the Project Nomad video series, the Mad Dash to DEFCON.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 09 Aug 2012 07:00:20 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">61 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-8#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/61</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 7</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-7</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bl1wU9MAseo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+Now that Defcon is over, I&#039;m almost caught up on the video for Project Nomad.  Here we&#039;re hacking the motor controller.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 08 Aug 2012 05:50:33 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">59 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-7#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/59</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 6</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-6</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NzmhkUfKFxo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+In this update in the Project: Nomad series, we tear down the wheel chair motor controller.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 07 Aug 2012 02:06:45 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">56 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-6#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/56</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 5</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-5</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JLWYJoKg12g?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+An update in the Project: Nomad series.  Here we are finishing the assembly of the robot chassis.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 06 Aug 2012 04:29:46 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">54 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-5#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/54</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 4</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-4</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cyHg7LaV54o&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+An update in the Project: Nomad series.  Here we are finishing the welding of the frame which mounts the PDP-11 onto the drive train.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 16 Jul 2012 09:46:40 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">43 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-4#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/43</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 3</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-3</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VOLFZew5FTU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+An update in the Project: Nomad series.  Here we are welding the frame which mounts the PDP-11 onto the drive train.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Jul 2012 23:26:21 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">42 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-3#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/42</wfw:commentRss>
+</item>
+<item>
+ <title>Project Nomad - Part 2</title>
+ <link>https://synshop.org/blog/krux/project-nomad-part-2</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Wa4SQ_7T8ag?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+An update in the Project: Nomad series.  Here I go through preparing the PDP-11 for mounting on the robot frame, as well as do a quick tear down and tour of the PDP-11/23 CPU and MDM drive chassis.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 09 Jul 2012 14:21:36 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">39 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad-part-2#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/39</wfw:commentRss>
+</item>
+<item>
+ <title>Pictures from First Friday</title>
+ <link>https://synshop.org/blog/krux/pictures-first-friday</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I had the opportunity while I wasn&#039;t in the booth to snap a few photos of the SYN Shop booth at First Friday.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/sites/default/files/members/uid18/images/large_FF_2012_07_IMG_1.png&quot; height=&quot;367&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;&lt;p&gt;Suan manning the throwie and homopolar motor side of the booth.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/sites/default/files/members/uid18/images/large_FF_2012_07_IMG_2.png&quot; height=&quot;343&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;&lt;p&gt;Andrew and Nathan manning the Do-nato and 3D printer side of the booth.  Collin is talking to people in front of the booth.  Plus we have an awesome sign.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/sites/default/files/members/uid18/images/large_FF_2012_07_IMG_3.png&quot; height=&quot;347&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;&lt;p&gt;Rebecca setting up homopolar motors&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/sites/default/files/members/uid18/images/large_FF_2012_07_IMG_4.png&quot; height=&quot;368&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;&lt;p&gt;Nathan explaining to Sarah just how awesome SYN Shop is.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 08 Jul 2012 03:57:43 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">38 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/pictures-first-friday#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/38</wfw:commentRss>
+</item>
+<item>
+ <title>Video From Saturday&#039;s Hackathon</title>
+ <link>https://synshop.org/blog/krux/video-saturdays-hackathon</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EVy1bVrXd88&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Perhaps we need more R&amp;amp;D.
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 27 Jun 2012 09:09:21 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">32 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/video-saturdays-hackathon#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/32</wfw:commentRss>
+</item>
+<item>
+ <title>We got mail</title>
+ <link>https://synshop.org/blog/krux/we-got-mail</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xKCOrBHpxMk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Dangerous Prototypes sent us some cool stuff!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 Jun 2012 03:35:51 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">26 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/we-got-mail#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/26</wfw:commentRss>
+</item>
+<item>
+ <title>Project: Nomad</title>
+ <link>https://synshop.org/blog/krux/project-nomad</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Project Nomad is the idea to turn a 30 year old mini-computer, a &lt;a href=&quot;http://en.wikipedia.org/wiki/PDP-11&quot; target=&quot;_blank&quot;&gt;PDP-11/23&lt;/a&gt;, into a mobile robot. The purpose, other than building awesome, is to use the PDP-11 in a Defcon Programming contest called Crash and Compile. We figure that driving your development environment up to the stage to compete has to be worth some style points.  We&#039;re going to keep you updated on the project with video releases, the first of which you can see here when you click on &quot;read more&quot;.
+&lt;p&gt;
+If you want to help on Project Nomad, get involved with SYN Shop, and lets make stuff awesome.
+&lt;/p&gt;&lt;p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HQffJdse4DI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;
+&lt;a href=&quot;https://wiki.synshop.org/Project+Nomad&quot;&gt;Project Nomad Wiki&lt;/a&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 20 Jun 2012 02:12:44 +0000</pubDate>
+ <dc:creator>Krux</dc:creator>
+ <guid isPermaLink="false">23 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/krux/project-nomad#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/23</wfw:commentRss>
+</item>
+</channel>
+</rss>

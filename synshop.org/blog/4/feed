@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>James C&#039;s blog</title>
+ <link>https://synshop.org/blog/intangible</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Wifi SD cards are now much more useful</title>
+ <link>https://synshop.org/blog/intangible/wifi-sd-cards-are-now-much-more-useful</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;&lt;img src=&quot;/sites/default/files/members/uid4/images/medium_pqi-air.JPG&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;img src=&quot;/sites/default/files/members/uid4/images/transcend-wifi.jpg&quot; height=&quot;310&quot; width=&quot;360&quot; /&gt; &lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;So I&#039;ve known about Wifi SD cards for a long time (like the &lt;a href=&quot;http://en.wikipedia.org/wiki/Eye-Fi&quot; rel=&quot;nofollow&quot;&gt;Eye-Fi&lt;/a&gt;), but their price plus the complete locked-down proprietary nature of their software stacks has kept me from getting one.&lt;/div&gt;&lt;div&gt;Nowadays, there are a few competitors though which gives us more options: &lt;a href=&quot;http://us.transcend-info.com/products/Catlist.asp?FldNo=24&quot; rel=&quot;nofollow&quot;&gt;Transcend Wifi &lt;/a&gt; and &lt;a href=&quot;http://www.pqigroup.com/prod_in.aspx?mnuid=1286&amp;amp;modid=138&amp;amp;prodid=426&quot; rel=&quot;nofollow&quot;&gt;PQI Air.&lt;/a&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;It looks like someone got one of the Transcend cards and figured out how to make the ARM Linux distro on it run arbitrary commands which is great news for everyone looking for a simple way to expose data via WiFi &lt;a href=&quot;http://hackaday.com/2013/08/12/hacking-transcend-wifi-sd-cards/&quot; rel=&quot;nofollow&quot;&gt;http://hackaday.com/2013/08/12/hacking-transcend-wifi-sd-cards/&lt;/a&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;According to the comments, the PQI cards are also capable of running arbitrary commands too, plus they offer upgradable microsd &lt;a href=&quot;http://www.newegg.com/Product/Product.aspx?Item=N82E16820141601&quot; rel=&quot;nofollow&quot;&gt;See on Newegg&lt;/a&gt; (I just ordered one, but sorry, they&#039;re sold out at Newegg, but elsewhere should have them)&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Since you can easily interface with &lt;a href=&quot;http://arduino.cc/en/Reference/SD&quot; rel=&quot;nofollow&quot;&gt;SD cards using SPI from microcontrollers like the Arduino&lt;/a&gt;, these SD Wifi cards (especially the PQI Air) seem like a really cool way to WIFI up your microcontroller without going full Raspberry PI or having to go with a complete &quot;Cloud&quot; solution like the &lt;a href=&quot;http://electricimp.com/&quot; rel=&quot;nofollow&quot;&gt;Electric Imp&lt;/a&gt;&lt;/div&gt;&lt;div&gt;The only thing to remember is SD Cards work at 3.3V, not 5V, so don&#039;t forget your &lt;a href=&quot;https://www.sparkfun.com/products/8745&quot; rel=&quot;nofollow&quot;&gt;level shifter&lt;/a&gt;.&lt;/div&gt;&lt;p&gt;Just spreading the word because I&#039;m excited... I&#039;ve been waiting for an open or &lt;em&gt;easily&lt;/em&gt; hackable one of these for a long time ever since I saw the first Eye-Fi &lt;img title=&quot;Cool&quot; alt=&quot;Cool&quot; src=&quot;https://synshop.org/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cool.gif&quot; /&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 13 Aug 2013 19:03:33 +0000</pubDate>
+ <dc:creator>James C</dc:creator>
+ <guid isPermaLink="false">226 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/intangible/wifi-sd-cards-are-now-much-more-useful#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/226</wfw:commentRss>
+</item>
+<item>
+ <title>An Interview with our very own Suziam</title>
+ <link>https://synshop.org/blog/intangible/interview-our-very-own-suziam</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;/user/suziam&quot; rel=&quot;nofollow&quot;&gt;Susan Hinton&lt;/a&gt; recently had an interview with &lt;a href=&quot;http://blog.thefetch.com&quot; rel=&quot;nofollow&quot;&gt;The Fech Blog&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You should definitely check it out for some interesting background on one of SYN Shop&#039;s founding members!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://blog.thefetch.com/2012/08/07/interview-vegas-local-susan-hinton/&quot; rel=&quot;nofollow&quot;&gt;Read More: Vegas local, Susan Hinton&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 08 Aug 2012 04:53:52 +0000</pubDate>
+ <dc:creator>James C</dc:creator>
+ <guid isPermaLink="false">58 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/intangible/interview-our-very-own-suziam#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/58</wfw:commentRss>
+</item>
+<item>
+ <title>Test Flickr</title>
+ <link>https://synshop.org/blog/intangible/test-flickr</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;center&gt;
+&lt;iframe align=&quot;center&quot; src=&quot;https://www.flickr.com/slideShow/index.gne?group_id=1975521@N24&amp;amp;user_id=&amp;amp;set_id=&amp;amp;tags=synshopshirt&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;450&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+Join the &lt;a href=&quot;http://www.flickr.com/groups/synshop/&quot;&gt;SYNShop Flickr Group&lt;/a&gt; and tag your photo with &lt;b&gt;synshopshirt&lt;/b&gt; to be featured here!
+&lt;/center&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 02 Jul 2012 09:16:44 +0000</pubDate>
+ <dc:creator>James C</dc:creator>
+ <guid isPermaLink="false">35 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/intangible/test-flickr#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/35</wfw:commentRss>
+</item>
+<item>
+ <title>my first blog post</title>
+ <link>https://synshop.org/blog/intangible/my-first-blog-post</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Heyo!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 11 Mar 2012 13:22:14 +0000</pubDate>
+ <dc:creator>James C</dc:creator>
+ <guid isPermaLink="false">3 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/intangible/my-first-blog-post#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/3</wfw:commentRss>
+</item>
+</channel>
+</rss>

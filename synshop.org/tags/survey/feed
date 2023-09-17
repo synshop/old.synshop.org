@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>SYN Shop - Survey</title>
+ <link>https://synshop.org/tags/survey</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Equipment Donations</title>
+ <link>https://synshop.org/2012-07-11/equipment-donations</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;https://synshop.org/sites/default/files/styles/large/public/field/image/mountain%20lion%20kitten_0.jpg?itok=k4pEg9-z&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://synshop.org/sites/default/files/styles/large/public/field/image/mountain%20lion%20kitten_0.jpg?itok=k4pEg9-z&quot; width=&quot;480&quot; height=&quot;360&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SYN Shop is looking for equipment to set up our new shop. We are also interested in taking tool donations for resale to support our organization (and baby mountain lions!!).  For specific equipment we are looking for right now, please see our &lt;a href=&quot;https://docs.google.com/document/d/1MTXXsYejYI2-YwmC_ZCijZPeu611iJoYuASUewYJYyI/edit&quot; target=&quot;_self&quot; rel=&quot;nofollow&quot;&gt;wish list&lt;/a&gt;. If you have any equipment you are willing to donate or loan to SYN Shop, please fill out our &lt;a href=&quot;https://docs.google.com/a/synshop.org/spreadsheet/viewform?formkey=dFEyR1dkTGFiSmhGVmhTWUQ5bjBFbXc6MQ&quot; target=&quot;_self&quot; rel=&quot;nofollow&quot;&gt;equipment donations web form&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Thanks!!&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/equipment&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Equipment&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/survey&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Survey&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 12 Jul 2012 05:47:45 +0000</pubDate>
+ <dc:creator>Nathan Bryant</dc:creator>
+ <guid isPermaLink="false">41 at https://synshop.org</guid>
+ <comments>https://synshop.org/2012-07-11/equipment-donations#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/41</wfw:commentRss>
+</item>
+</channel>
+</rss>

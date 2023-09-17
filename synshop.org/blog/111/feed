@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Chris Oremus&#039;s blog</title>
+ <link>https://synshop.org/blog/chris</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Trouble with Shopbot</title>
+ <link>https://synshop.org/blog/chris-oremus/trouble-shopbot</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Using the Shopbot a few days ago I got communication errors a few times, non-responsive stop button and circles that where non consistently the same shape or curvature.&lt;/p&gt;&lt;p&gt;I described the situation to Shopbot tech support and they replied:&lt;/p&gt;&lt;p&gt;&lt;span&gt;Make sure you have firmware loaded that matches the software version using the Utilities -&amp;gt; Install Control Box Firmware menu.  Once that&#039;s finished, check that the settings are correct by going to Utilities-&amp;gt; Reset Default Settings and choosing the file that matches your machine.  This may take care of a couple of those problems.  Let us know what problems persist after doing these things.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;I&#039;ll be back to the shop Friday to do these things unless maybe someone at the shop could do them sooner.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 16 Apr 2014 15:20:05 +0000</pubDate>
+ <dc:creator>Chris Oremus</dc:creator>
+ <guid isPermaLink="false">351 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/chris-oremus/trouble-shopbot#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/351</wfw:commentRss>
+</item>
+</channel>
+</rss>

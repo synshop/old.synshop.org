@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>permakent&#039;s blog</title>
+ <link>https://synshop.org/blog/permakent</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What I Plan To Do</title>
+ <link>https://synshop.org/blog/permakent/what-i-plan-do</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eventually I&#039;ll create a through hole component pcb for a low volume of kits for The EnMorser project. I brought a makeshift maze of wires on a breadboard with a PS/2 keyboard last week. The project will be documented on http://enmorser.com&lt;/p&gt;&lt;p&gt;The basic version will have a keyboard (of some type: maybe long life physical tac switches, and/or bluetooth, and/or wifi phone app) to Morse encoding for a QRP transmitter and audio tone to text decoding from a receiver like Budd Churchward&#039;s kit &lt;iframe class=&quot;youtube-video&quot; width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/4Cx6VRRAHfc?fs=1&amp;amp;autoplay=0&amp;amp;rel=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; perhaps with extra goodies such as SD card storage, GPS, receipt printer, etc. It will be as open source as possible, with emergency communication minded hams as the primary market.&lt;/p&gt;&lt;p&gt;I&#039;ll need more CAD learnin&#039; to do, starting simply with Fritzing as shown by Budd to create something OSH Park can handle.&lt;/p&gt;&lt;p&gt;But first thing I do wil be to build Budd&#039;s kit successfully without overheating my soldering iron this time and damaging the board. Ready to start on that next time. New kit is on hand and ready to be assembled.&lt;/p&gt;&lt;p&gt;Also want to learn how to make custom enclosures such as Ben Heck&#039;s wireless texting project, &lt;iframe class=&quot;youtube-video&quot; width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/o4tRhadMg_s?fs=1&amp;amp;autoplay=0&amp;amp;rel=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;Okay, enough of this typing for now. Later!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 12 Jan 2016 21:16:08 +0000</pubDate>
+ <dc:creator>permakent</dc:creator>
+ <guid isPermaLink="false">703 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/permakent/what-i-plan-do#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/703</wfw:commentRss>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Pawel&#039;s blog</title>
+ <link>https://synshop.org/blog/makenai</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Building Robots at NodeBots Day</title>
+ <link>https://synshop.org/blog/makenai/building-robots-nodebots-day</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We have a cool event coming up on July 27th for javascript developers interested in learning about robotics:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ticketcake.com/event/nodebots-day-las-vegas/las-vegas/2013-07-27&quot;&gt;&lt;img src=&quot;https://synshop.org/sites/default/files/NodeBotsDaySmall.png&quot; alt=&quot;NodeBots Day Las Vegas&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You can build anything you&#039;d like, but we&#039;ll also be providing Sumobot Jr kits designed here at SYN Shop to help you get up and running quickly. See the video for more info on the kit:&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/0Q3hrKUwxDM?list=UUQf6i13evZ9tDp8uLvfqhUQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;!--break--&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 09 Jul 2013 04:04:19 +0000</pubDate>
+ <dc:creator>Pawel</dc:creator>
+ <guid isPermaLink="false">208 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/makenai/building-robots-nodebots-day#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/208</wfw:commentRss>
+</item>
+</channel>
+</rss>

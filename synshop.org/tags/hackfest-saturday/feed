@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>SYN Shop - hackfest saturday</title>
+ <link>https://synshop.org/tags/hackfest-saturday</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pre-First Friday Hack-Fest, Saturday!!!!</title>
+ <link>https://synshop.org/article/pre-first-friday-hack-fest-saturday</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We&#039;ll be gethering for another Saturday Hack Fest at Mark Koch&#039;s house.  We&#039;ll be working on projects related to our booth at First Friday.  All are welcome.  Bring something to hack on or just come over to help out.&lt;/p&gt;&lt;p&gt;We will have a cooler with ice, so bring a few of something to drink and a snack or two.&lt;/p&gt;&lt;p&gt;Address is: &lt;em&gt;&lt;strong&gt;8005 Firethorn Lane, Near Eastern and Windmill.&lt;/strong&gt;&lt;/em&gt;  We&#039;ll be out back in the shop.  Saturday June 16,  11am-5pm.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/hackfest-saturday&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;hackfest saturday&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 15 Jun 2012 04:50:06 +0000</pubDate>
+ <dc:creator>CircuitMonkey</dc:creator>
+ <guid isPermaLink="false">22 at https://synshop.org</guid>
+ <comments>https://synshop.org/article/pre-first-friday-hack-fest-saturday#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/22</wfw:commentRss>
+</item>
+</channel>
+</rss>

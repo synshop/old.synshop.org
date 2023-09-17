@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://synshop.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Tim Gibson&#039;s blog</title>
+ <link>https://synshop.org/blog/tim</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Beer Cooler</title>
+ <link>https://synshop.org/blog/tim/beer-cooler</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I&#039;ve been working on a number of brewing projects and wanted to share a recent &lt;a href=&quot;https://tinkercad.com/things/8RJCPwDBB1A&quot; rel=&quot;nofollow&quot;&gt;3D print&lt;/a&gt; I&#039;ve created. This is a support bracket for the serving lines inside the chest freezer adapted to work as a keg chiller. Since 8 feet of serving line is recommended to allow low foaming pours I needed to mount the lines from the taps in the front around the inside of the cooler to the back. This required 6 of these mounting brackets. They will accommodate up to 15mm lines and the mounting holes are 6mm to work with a #6 machine screw. As side note, the Creator Dual is working nicely with the Red filament. I found a temp of 210c, media diameter of 1.73mm, and a bed heated to 50c produces good results&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Feb 2016 17:38:20 +0000</pubDate>
+ <dc:creator>Tim Gibson</dc:creator>
+ <guid isPermaLink="false">718 at https://synshop.org</guid>
+ <comments>https://synshop.org/blog/tim/beer-cooler#comments</comments>
+ <wfw:commentRss>https://synshop.org/crss/node/718</wfw:commentRss>
+</item>
+</channel>
+</rss>
