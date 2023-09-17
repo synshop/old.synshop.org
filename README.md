@@ -7,8 +7,10 @@ In 2023 we redid synshop.org to no long be based on Drupal, and instead be [stat
 
 ## First post
 
->  16 May 2012
-> The SYN Shop web site has a new look
+NB - mentions of "wiki" server have been moved to [RFTM](https://rtfm.synshop.org/)
+
+> ### The SYN Shop web site has a new look
+> **16 May 2012** - 
 > By Krux
 > 
 > We've just pulled the trigger on migrating to the new server for the SYN Shop site.  We have a snazzy new Drupal based front end, that James has put a lot of work into getting up and running.  He's done a great job in getting things working before he and Rebecca head off for their wedding/honeymoon.
