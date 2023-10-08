@@ -3,7 +3,7 @@ Archival copy of synshop.org which was active from May 2012 - Sep 2023
 
 ## What?
 
-In 2023 we redid synshop.org to no long be based on Drupal, and instead be [statically hosted](https://github.com/synshop/synshop.org).  This copy of the site was made with [httrack](https://github.com/xroche/httrack).
+In 2023 we redid synshop.org to no longer be based on Drupal, and instead be [statically hosted](https://github.com/synshop/synshop.org).  This copy of the site was made with [httrack](https://github.com/xroche/httrack).
 
 ## First post
 
